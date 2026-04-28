@@ -1,0 +1,2 @@
+Nowa linia 1 w pliku zadanie5.txt
+	Nowa linia 2 w pliku zadanie5.txt z tabem
